@@ -1,0 +1,23 @@
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\bin\Debug\net5.0-windows\PrintScreen.exe
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\bin\Debug\net5.0-windows\PrintScreen.deps.json
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\bin\Debug\net5.0-windows\PrintScreen.runtimeconfig.json
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\bin\Debug\net5.0-windows\PrintScreen.runtimeconfig.dev.json
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\bin\Debug\net5.0-windows\PrintScreen.dll
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\bin\Debug\net5.0-windows\ref\PrintScreen.dll
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\bin\Debug\net5.0-windows\PrintScreen.pdb
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\obj\Debug\net5.0-windows\PrintScreen.vbprojAssemblyReference.cache
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\obj\Debug\net5.0-windows\PrintScreen.Form1.resources
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\obj\Debug\net5.0-windows\PrintScreen.vbproj.GenerateResource.cache
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\obj\Debug\net5.0-windows\PrintScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\obj\Debug\net5.0-windows\PrintScreen.AssemblyInfoInputs.cache
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\obj\Debug\net5.0-windows\PrintScreen.AssemblyInfo.vb
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\obj\Debug\net5.0-windows\PrintScreen.vbproj.CoreCompileInputs.cache
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\obj\Debug\net5.0-windows\PrintScreen.dll
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\obj\Debug\net5.0-windows\ref\PrintScreen.dll
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\obj\Debug\net5.0-windows\PrintScreen.pdb
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\obj\Debug\net5.0-windows\PrintScreen.genruntimeconfig.cache
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\obj\Debug\net5.0-windows\PrintScreen.Form1 - Copy.resources
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\bin\Debug\net5.0-windows\GemBox.Document.dll
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\Users\lakshmana.prasanth\source\repos\PrintScreen\obj\Debug\net5.0-windows\PrintScreen.vbproj.CopyComplete

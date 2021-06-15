@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "J2JrryH7VooallBhupaGZW3tnTM/lCUCITVDmBUz/XE1No3bjwWkHz9xpPV+sIDlEpomesh8q6O8CLdhdh7Kxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lakshmana.prasanth\\source\\repos\\PrintScreen\\PrintScreen.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lakshmana.prasanth\\.nuget\\packages\\gembox.document\\33.0.1155\\gembox.document.33.0.1155.nupkg.sha512",
+    "C:\\Users\\lakshmana.prasanth\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\lakshmana.prasanth\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\lakshmana.prasanth\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\lakshmana.prasanth\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
